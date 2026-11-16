@@ -75,13 +75,9 @@
   author: Ritwik, Kotra Venkata Sai, Shareef Babu Kalluri, and Deepu Vijayasenan.
   type: journal
   paper_link: https://www.sciencedirect.com/science/article/pii/S0167639319301074
-  code_link: 
-  bibtex: 
 
 - paper : "A deep learning model for the automatic detection of malignancy in effusion cytology"
-
   author: Shajahan Aboobacker, Deepu Vijayasenan, S Sumam David, Pooja K Suresh, Saraswathy Sreeram
-
   type: conference
   pub: 2020 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)
   paper_link: "https://ieeexplore.ieee.org/iel7/9259428/9259448/09259490.pdf"
@@ -92,9 +88,22 @@
   paper_link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9806747"
   type: conference
   pub : 2022 National Conference on Communications (NCC)
-
-  paper_link: "https://www.sciencedirect.com/science/article/pii/S0010482522008873"
+  
+  
 - paper : "Semantic segmentation of low magnification effusion cytology images A semi-supervised approach"
   type: conference
   pub : Computers in Biology and Medicine
   author: Shajahan Aboobacker, Deepu Vijayasenan, Pooja K Suresh, Saraswathy Sreeram
+  paper_link: "https://www.sciencedirect.com/science/article/pii/S0010482522008873"
+
+  - paper : "Automated Bacteriuria Detection and Grading using Deep Learning"
+  author: Vidyashree R. Kanabur, Deepu Vijayasenan, Sumam David S, Sreejith Govindan
+  type: journal
+  paper_link: "https://ieeexplore.ieee.org/abstract/document/11533378"
+
+  - paper : "Bacterial segmentation in urine microscopy using self-supervised learning: addressing label scarcity and cross-domain generalization"
+  author: Vidyashree R. Kanabur, Deepu Vijayasenan, Sumam David S, Sreejith Govindan
+  type: journal
+  paper_link: "https://iopscience.iop.org/article/10.1088/2631-8695/ae9f2a/meta"
+
+  
